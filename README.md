@@ -3,7 +3,6 @@
 A high-performance, modern Quiz Application built with **React Native** and **Expo**. This project goes beyond basic requirements by implementing a robust local database system, allowing players to resume games and manage "lives" during their sessions.
 
 
-
 ## ✨ Features
 
 * **Persistent Progress:** Uses `expo-sqlite` to save your current question, score, and lives. Stop anytime and resume where you left off.
@@ -23,7 +22,7 @@ A high-performance, modern Quiz Application built with **React Native** and **Ex
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/quiz-master.git](https://github.com/your-username/quiz-master.git)
+    git clone [https://github.com/Alan-VSouza/Quizz-Game.git](https://github.com/Alan-VSouza/Quizz-Game.git)
     ```
 2.  **Install dependencies:**
     ```bash
@@ -43,4 +42,7 @@ The app manages two main tables:
 2.  `progress`: A single-row table that tracks the user's current state (`current_index`, `lives`, `correct_count`).
 
 ---
+## By:
+- Alan Souza
+- Ana Livia Turazzi
 *Developed for academic purposes with a focus on mobile performance and local data persistence.*
